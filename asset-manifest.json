@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redux-cart/static/css/main.c463a086.chunk.css",
+    "main.js": "/redux-cart/static/js/main.456e433f.chunk.js",
+    "main.js.map": "/redux-cart/static/js/main.456e433f.chunk.js.map",
+    "runtime-main.js": "/redux-cart/static/js/runtime-main.b036b403.js",
+    "runtime-main.js.map": "/redux-cart/static/js/runtime-main.b036b403.js.map",
+    "static/js/2.4bb05192.chunk.js": "/redux-cart/static/js/2.4bb05192.chunk.js",
+    "static/js/2.4bb05192.chunk.js.map": "/redux-cart/static/js/2.4bb05192.chunk.js.map",
+    "index.html": "/redux-cart/index.html",
+    "precache-manifest.3fbb1d20621a33ae2a1d452352ae45f2.js": "/redux-cart/precache-manifest.3fbb1d20621a33ae2a1d452352ae45f2.js",
+    "service-worker.js": "/redux-cart/service-worker.js",
+    "static/css/main.c463a086.chunk.css.map": "/redux-cart/static/css/main.c463a086.chunk.css.map",
+    "static/js/2.4bb05192.chunk.js.LICENSE.txt": "/redux-cart/static/js/2.4bb05192.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b036b403.js",
+    "static/js/2.4bb05192.chunk.js",
+    "static/css/main.c463a086.chunk.css",
+    "static/js/main.456e433f.chunk.js"
+  ]
+}
